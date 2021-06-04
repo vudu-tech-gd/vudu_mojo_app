@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "445018731381",
+    "project_id": "example-app---dev",
+    "storage_bucket": "example-app---dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445018731381:android:22bd8d2a28a6ae4574593c",
+        "android_client_info": {
+          "package_name": "tech.vudu.vudu_mojo_app_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445018731381-7hgbkmejf57nocfb4f11qocm3r694gdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjqAiaZiDoDPpUfGz8lyV_w2OW3C3Oij4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445018731381-7hgbkmejf57nocfb4f11qocm3r694gdc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445018731381-fdr0kpm7cnlsuf04c6bq3a3jivq0rm2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.vudu.vuduMojoAppExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
