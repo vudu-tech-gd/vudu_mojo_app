@@ -1,4 +1,4 @@
-import 'package:package_info/package_info.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'package:vudu_mojo_app/bindings/bindingModel.dart';
 import 'package:vudu_mojo_app/locator.dart';
 import 'package:vudu_mojo_app/services/service.dart';
